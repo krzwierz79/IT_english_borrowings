@@ -24,7 +24,7 @@ authentication | autentykacja | uwierzytelnienie/poświadczenie
 backup | bekap, bakap | kopia zapasowa
 background | begrand | tło 
 benchmark | benczmark | wzorzec/punkt odniesienia
-beta|release | beta rilis | działąjąca wersja beta 
+beta-release | beta rilis | działąjąca wersja beta 
 boot | butowanie | rozruch
 branch | brancz | gałąź/rozgałęzienie
 browser | browzer, brałzer |  przeglądarka
@@ -39,7 +39,7 @@ CI/CD | si-aj-si-di | CI/CD
 class label |klas label, lejbel | etykieta klasy
 click|through | klikfru |  klikalność
 cloud platform | klałd |  platforma chmurowa
-code review | | przegląd kodu/inspekcja kodu
+code review | kod, kołd riwju | przegląd kodu/inspekcja kodu
 collaborate | kolaborować | współpracować
 collect data |kolekcjonować dane | gromadzić dane
 commit | zakomituj | zatwierdź
@@ -51,7 +51,7 @@ copyleft software license | kopileft | licencja copyleft (dopuszczająca modyfik
 copyright law | kopirajt |  prawo autorskie
 core | kor | rdzeń
 crawler | krałler | pająk/crawler
-crednetials | kredenszale, kredencjale | poświadczenia, kwalifikacje
+credentials | kredenszale, kredencjale | poświadczenia, kwalifikacje
 cross|functional | krosfunkcjonalny | interdyscyplinarny
 customize | kustomizuj | dostosuj
 dashboard | daszbord | kokpit menedżerski
@@ -59,7 +59,7 @@ datasets | datasety, dejtasety | zbiory danych
 debugging | debuging, debaging | debugowanie
 decrypt | dekryptować | deszyfrować/rozszyfrować
 default gateway | defaultowy gatewaj, gejtłej | brama domyślna
-dependecies | dependencje | zależności
+dependencies | dependencje | zależności
 deployment | deplojment, diplojment | wdrożenie
 deprecated | zdeprekowany | przestarzały
 development team | tim dewelopmentu | zespół deweloperski
@@ -73,16 +73,15 @@ feature | ficzer | funkcja
 feedback | fidbak | informacja zwrotna
 fetch | sfeczować | pobierać/sprowadzać
 fix | fiksuj | napraw
-flash memory | flasz, flesz memoy | pamięć typu flash
+flash memory | flasz, flesz memory | pamięć typu flash
 foreign key | forin ki, forejn kej | klucz obcy
 form | formatka | formularz
 framework | frejmłork | struktura/szkielet
 Google | gogle, gugle, gugel | Google
 GUI | gułi | graficzny interfejs użytkownika (GUI)
-graphics card | karta graficzna
 host computer | host | komputer macierzysty
 implementation | implementacja | wdrożenie
-include | inkuluduj | dołącz
+include | inkluduj | dołącz
 inject | indżektuj | "wstrzyknij", dołącz
 instance | | instancja
 integration test | |  test integracyjny
@@ -92,7 +91,7 @@ invalidate | inwaliduj | unieważnij
 investigation | inwestygacja | sprawdzenie
 issue | iszju, isju | kwestia
 latency | latencja | zwłoka/opóźnienie
-layer | lejer | warstwa
+layer | lejer, lajer | warstwa
 lean production | produkcja lin | szczupła produkcja
 legacy data | legacy data, ledżejsi dejta |  dane historyczne
 limitation | limitacja | ograniczenie
@@ -107,7 +106,6 @@ mute | zmutuj | wycisz
 node | nod, noda | węzeł
 notification | notyfikacja, nota | powiadomienie
 object|oriented modelling | obiektówka | modelowanie obiektowe
-ordering party | zamawiający
 origin | oridżin |  pochodzenie
 paging | paginacja | stronicowanie
 parallel | paralelnie | równolegle
@@ -118,22 +116,23 @@ performance | performans | wydajność
 policy | policja | zasady/polityka
 portability | portabilność | przenośność
 prediction | predykcja | przewidywanie
-querries | kłerisy | zapytania
+queries | kłerisy | zapytania
 query language | język kłerowy |  język zapytań
-queue | kłełełe (see hrejterzy) | kolejka
+queue | kłełełe (see: hrejterzy) | kolejka
 random | randomowy | losowy/przypadkowy
 raw data | ro data, rał, raw dejta | surowe dane
 redundancy | redundancja | nadmiarowość
-refactoring | refaktoring
-regression | regresja
+refactoring | refaktoring | refaktoryzacja
+regression | | regresja
 rename | rinejmuj | zmień nazwę
 repository | repo | repozytorium
 requests | rikłesty | żądania
 review | rewiu | przegląd, sprawdzenie
 resource sharing | risors szering | współdzielenie zasobów
 robust regression | | regresja odporna
-roll|up | rolap | konsolidowanie/zwijanie
+roll-up | rolap | konsolidowanie/zwijanie
 route | rut, rałt |  trasa/droga
+router | ruter, rałter | router 
 rule | rula, rulka | reguła
 sample | sampel | próbka
 schedule | zaskedżuluj, szedżuluj | ustal termin 
@@ -144,13 +143,13 @@ set up | setapuj | skonfiguruj
 share | zszeruj | udostępnij 
 spreadsheet | spredszit | arkusz kalkulacyjny
 support | saport | wsparcie
-SQL | es|qju|el, sikłel | SQL
+SQL | es-qju-el, sikłel | SQL
 stakeholder | stejkholder | interesariusz
 subdomain | subdomena | poddomena/podobszar
 subset | subset, sabset | podzbiór
 syntax testing | testowanie syntaksowe | testowanie składniowe
 template | templatka | szablon
-toggle | togiel | przełącznik
+toggle | togiel, togel | przełącznik
 trigger | trigerowanie | wyzwalanie
 trace | trejs | ślad, ścieżka
 tuple | tupla | krotka
@@ -160,7 +159,7 @@ validate | walidować | potwierdzać
 validation test | test walidacyjny | test potwierdzający
 vendor | wendor | dostawca
 volume license | lincecja wolumenowa | licencja grupowa
-webpage | łebpejdż | pojedyncza podstrona internetowa
+webpage | łep-pejdż | pojedyncza podstrona internetowa
 website | łebsajt | witryna/ strona internetowa
-Wi|Fi | wifi, łajfaj | stacja bazowa wi|fi
+Wi-Fi | wifi, łajfaj | Wi-Fi
 workflow | łorkflow | przepływ, organizacja pracy
