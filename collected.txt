@@ -137,6 +137,7 @@ template - templatka - szablon
 toggle - togiel - przełącznik
 trigger - trigerowanie - wyzwalanie
 trace - trejs - ślad, ścieżka
+tuple - tupla - krotka
 update - apdejtuj - zaktualizuj
 upgrade - apgrejduj - zaktualizuj, ulepsz
 validate - walidować - potwierdzać
