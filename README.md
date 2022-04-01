@@ -1,8 +1,8 @@
-# IT_english_borrowings
+# English > Polish borrowings in IT
 
 ## Po co jest to repo?
 
-Przed kilka(edit:)naście lat pomagania programistom, devom, SysOpsom i innym ludziom mniej lub bardziej związanym z IT w dogadywaniu się z innymi ludźmi (np. nie związanymi z IT) po angielsku zebrała się lista słówek, co do których mało kto ma pewność czy lepiej je powiedzieć po polsku czy po angielsku. A jeśli po polsku to jak? A jeśli po angielsku, to (tym bardziej) jak?
+Przed kilka(edit:)naście lat pomagania programistom, devom, SysOpsom i innym ludziom mniej lub bardziej związanym z IT w dogadywaniu się z innymi ludźmi (np. niezwiązanymi z IT) po angielsku zebrała się lista słówek, co do których mało kto ma pewność czy lepiej je powiedzieć po polsku czy po angielsku. A jeśli po polsku to jak? A jeśli po angielsku, to (tym bardziej) jak?
 
 ## Po co to repo nie jest?
 
