@@ -8,9 +8,9 @@ Przed kilka(edit:)naście lat pomagania programistom, devom, SysOpsom i innym lu
 
 Nie jest po to, żeby udowadniać komukolwiek cokolwiek. A na pewno nie po to, żeby pokazywać, że jedna wersja jest lepsza od innej. Nie uczy też jak prawidłowo wymawiać angielskie słowa (ani jak zapisywać ich wymowę). Może być zabawne ale nie ośmiesza i nie żartuje z zapożyczeń, spolszczeń, kalk itd.
 
-## Jak są zorganizowane zwroty
+## Jak są zorganizowane zwroty?
 
-Alfabetycznie (mniej|więcej). A poza tym w kolumnach. Co jest w pierwszej każdy widzi. Druga to zebrane od różnych osób spolszczenia. Znasz inne? Podrzuć pull requestem albo jak Ci wygodnie. Nie poprawiaj jeśli nie musisz. Nie chodzi o to żeby było poprawnie, tylko realistycznie. Wymowa jest (i będzie) uproszczona do maksimum. Trzecia kolumna to wersja polska | poprawna (albo uznawana za poprawną). Czasem może być łatwiejsza i bardziej przejrzysta w użyciu niż spolszczenie ze środkowej kolumny. Ale hej, skoro ktoś spolszcza jak w środku to pewnie ma swoje powody. Peace.
+Alfabetycznie (mniej-więcej). A poza tym w kolumnach. Co jest w pierwszej każdy widzi. Druga to zebrane od różnych osób spolszczenia. Znasz inne? Podrzuć pull requestem albo jak Ci wygodnie. Nie poprawiaj jeśli nie musisz. Nie chodzi o to żeby było poprawnie, tylko realistycznie. Wymowa jest (i będzie) uproszczona do maksimum. Trzecia kolumna to wersja polska - poprawna (albo uznawana za poprawną). Czasem może być łatwiejsza i bardziej przejrzysta w użyciu niż spolszczenie ze środkowej kolumny. Ale hej, skoro ktoś spolszcza jak w środku to pewnie ma swoje powody. Peace.
 
 angielski | spolszczenie  | polski
 ----------|:-------------:|------------:
