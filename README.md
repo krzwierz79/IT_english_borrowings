@@ -25,6 +25,7 @@ backup | bekap, bakap | kopia zapasowa
 background | begrand | tło 
 benchmark | benczmark | wzorzec/punkt odniesienia
 beta-release | beta rilis | działąjąca wersja beta 
+bookmark | zabukmarkuj | dodaj do zakładek
 boot | butowanie | rozruch
 branch | brancz | gałąź/rozgałęzienie
 browser | browzer, brałzer |  przeglądarka
