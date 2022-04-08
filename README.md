@@ -43,7 +43,7 @@ cloud platform | klałd |  platforma chmurowa
 code review | kod, kołd riwju | przegląd kodu/inspekcja kodu
 collaborate | kolaborować | współpracować
 collect data |kolekcjonować dane | gromadzić dane
-commit | zakomituj | zatwierdź
+commit | zakomituj, scommituj | zatwierdź
 completion | kompletacja | ukończenie/zakończenie
 complex | kompleksowy | złożony
 concurrent | konkurencyjny | równoczesny
